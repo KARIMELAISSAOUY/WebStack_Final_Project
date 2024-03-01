@@ -1,0 +1,72 @@
+.nav{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 2px 120px;
+   color: rgb(255, 255, 255);
+   z-index: 1;
+}
+/* .nav-logo{
+    font-family: "Montserrat", sans-serif;
+    font-size: 42px;
+    font-weight: 500px;
+} */
+.logo{
+    width: 170px;
+}
+
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size:  18px;
+    gap: 90px;
+}
+.nav-contact{
+    border-radius:50px;
+    padding: 10px 38px;
+    background: #fff;
+    color: #262626;
+}
+.nav-contact:hover{
+    background: #ed1b24;
+    color: #ffffff;
+}
+.nav-menu {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .nav-menu li {
+    margin-right: 20px;
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Exclude the li with nav-contact class from the animation */
+  .nav-menu li:not(.nav-contact)::after {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0; /* Start with width 0 */
+    height: 2px;
+    background-color: transparent;
+    transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  }
+  
+  /* Hover effect for all li elements except nav-contact */
+  .nav-menu li:not(.nav-contact):hover::after {
+    width: 100%; /* Expand the width on hover */
+    background-color: white;
+  }
+
+
+
+
+
+
+
+  /* dv by karim */

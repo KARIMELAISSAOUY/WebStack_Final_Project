@@ -38,7 +38,7 @@ My Webstack ReactJS Portfolio is a representation of my journey in software deve
 
 ## Ferrari Landing Page
 
-![Ferrari Landing Page](ferrari-landingpage.jpg)
+![Ferrari Landing Page](Ferrari.jpg)
 
 As a final project in the ALX Software Engineering course, I developed the Ferrari Landing Page. This project showcases the beauty and performance of Ferrari cars through an interactive web experience. Built using ReactJS and Vite, it features a responsive design, captivating video backgrounds, and engaging animations. Dive into the world of Ferrari and experience the thrill of luxury sports cars like never before!
 

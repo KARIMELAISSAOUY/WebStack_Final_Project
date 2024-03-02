@@ -1,7 +1,6 @@
 # Alx _ Portfolio 
 ## JS Portfolio Website
 
-# Ferrari Landing Page
 ## Dv By KARIM 
 
 ![Portfolio](Portfolio.png)

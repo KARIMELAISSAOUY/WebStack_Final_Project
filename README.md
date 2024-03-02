@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="alxafrica.png" alt="ALX Software Engineer">
+  <img src="ALXAfrica.png" alt="ALX Software Engineer">
 </p>
 
 ---

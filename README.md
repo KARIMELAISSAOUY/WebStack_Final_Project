@@ -17,7 +17,7 @@ Hello, I'm Karim, a Full Stack Developer & Software engineer and a graduate of t
 
 ## Webstack Portfolio with ReactJS
 
-![Webstack ReactJS Portfolio](portfolio-screenshot.jpg)
+![Webstack ReactJS Portfolio](portfolio.jpg)
 
 My Webstack ReactJS Portfolio is a representation of my journey in software development. Built with ReactJS, CSS3, Bootstrap, Font Awesome, and Lb.js, this portfolio offers a responsive design for both mobile and desktop users. Explore my projects, learn about my skills, and get in touch for collaborations or opportunities.
 
@@ -34,7 +34,7 @@ My Webstack ReactJS Portfolio is a representation of my journey in software deve
 - **CSS3**: The latest in styling techniques for beautiful designs.
 - **Bootstrap**: A popular CSS framework for responsive and mobile-first design.
 - **Font Awesome**: A vast collection of icons to enhance user experience.
-- **Lb.js**: Lightweight JavaScript library for scroll-based animations.
+- **JSlibraries**: Lightweight JavaScript library for scroll-based animations.
 
 ## Ferrari Landing Page
 

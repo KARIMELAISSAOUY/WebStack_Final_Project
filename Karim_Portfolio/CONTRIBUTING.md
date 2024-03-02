@@ -18,7 +18,7 @@ You will need `node.js` and `git` installed on your Pc.
 
 1. Installation: `npm install`
 
-2. In the project directory + you can run: `npm start`
+2.  run: `npm start`
 
 
 

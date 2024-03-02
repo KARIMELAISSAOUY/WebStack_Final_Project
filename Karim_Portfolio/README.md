@@ -27,5 +27,4 @@ Welcome to my Webstack ReactJS Portfolio, showcasing my projects and skills deve
 - **Font Awesome**: A popular icon set and toolkit for web development.
 - **libraries JS**: A lightweight JavaScript library for creating scroll-based animations and effects.
 
-
-
+*👉Developed by KARIM*
